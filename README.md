@@ -1,6 +1,6 @@
-# File Browser CLI
+# File Browser
 
-This is a command line tool that can search for files within a specified directory by name and/or extension.
+This is a command-line tool for searching for files within a specified directory by name and/or extension.
 
 ## Prerequisites
 
